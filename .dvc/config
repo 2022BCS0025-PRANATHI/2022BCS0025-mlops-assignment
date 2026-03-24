@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://2022bcs0025-mlopsbucket
+    region = ap-south-1
