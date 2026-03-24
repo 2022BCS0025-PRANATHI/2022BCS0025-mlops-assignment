@@ -1,8 +1,5 @@
-pandas
-scikit-learn
-mlflow
 fastapi
 uvicorn
+scikit-learn
 joblib
-dvc[s3]
-boto3
+python-multipart

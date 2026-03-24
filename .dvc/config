@@ -3,3 +3,5 @@
 ['remote "myremote"']
     url = s3://2022bcs0025-mlopsbucket
     region = ap-south-1
+    endpointurl = https://s3.amazonaws.com
+    use_ssl = true
